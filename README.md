@@ -78,3 +78,50 @@ When your changes are complete then create a Pull Request ensuring that your bra
 ## Discuss OpenRemote
 
 Join us on the [community forum](https://forum.openremote.io/).
+
+## Contributors
+
+This repository is a fork of [openremote/core](https://github.com/openremote/core).
+
+
+Fork maintainer:
+
+- [@noahotim](https://github.com/noahotim)
+
+
+Thanks to all upstream contributors:
+
+
+| Contributor | Commits |
+| --- | --- |
+| [@richturner](https://github.com/richturner) | 1637 |
+| [@Miggets7](https://github.com/Miggets7) | 550 |
+| [@aktur](https://github.com/aktur) | 380 |
+| [@robin-dekkers](https://github.com/robin-dekkers) | 236 |
+| [@DonWillems](https://github.com/DonWillems) | 137 |
+| [@MartinaeyNL](https://github.com/MartinaeyNL) | 84 |
+| [@pierrekil](https://github.com/pierrekil) | 50 |
+| [@wborn](https://github.com/wborn) | 37 |
+| [@dependabot[bot]](https://github.com/dependabot[bot]) | 29 |
+| [@wbalcaen](https://github.com/wbalcaen) | 25 |
+| [@rainerhitz](https://github.com/rainerhitz) | 21 |
+| [@pankalog](https://github.com/pankalog) | 19 |
+| [@jvervier](https://github.com/jvervier) | 14 |
+| [@dominiquekleeven](https://github.com/dominiquekleeven) | 11 |
+| [@christianbauer](https://github.com/christianbauer) | 9 |
+| [@hmica](https://github.com/hmica) | 8 |
+| [@Hackerberg43](https://github.com/Hackerberg43) | 8 |
+| [@NinaBianca](https://github.com/NinaBianca) | 4 |
+| [@igorrutka](https://github.com/igorrutka) | 4 |
+| [@ebariaux](https://github.com/ebariaux) | 3 |
+| [@mihaelaaleks](https://github.com/mihaelaaleks) | 3 |
+| [@NealGeilen](https://github.com/NealGeilen) | 3 |
+| [@mestiez](https://github.com/mestiez) | 3 |
+| [@developers-openremote](https://github.com/developers-openremote) | 2 |
+| [@Hard7Rock](https://github.com/Hard7Rock) | 2 |
+| [@eric-openremote](https://github.com/eric-openremote) | 2 |
+| [@DamienKusters](https://github.com/DamienKusters) | 2 |
+| [@accabog](https://github.com/accabog) | 2 |
+| [@DasAuryn](https://github.com/DasAuryn) | 1 |
+| [@kklin](https://github.com/kklin) | 1 |
+
