@@ -23,7 +23,7 @@
   "dependencies": {
     "@openremote/model": "workspace:*",
     "axios": "0.24.0",
-    "qs": "^6.8.0"
+    "qs": "^6.16.1"
   },
   "devDependencies": {
     "@openremote/util": "workspace:*",
